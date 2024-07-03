@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/CUDIUM ARCHITECTURE (1).png
+coverY: 0
+---
+
 # About Me
 
 I'm all about building scalable and robust applications, bringing over 5+ years of experience. As a Backend Software Engineer, I've driven efficiency improvements of up to 60%, thanks to my expertise in Go and JavaScript.
