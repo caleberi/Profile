@@ -7,5 +7,3 @@
   * [AirGateway](experiences/airgateway.md)
   * [Nomba](experiences/nomba.md)
   * [Quickleap](experiences/quickleap.md)
-* [Projects](projects.md)
-* [Gallery](gallery.md)
