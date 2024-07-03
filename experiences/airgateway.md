@@ -8,7 +8,7 @@
 
 ### **Backend Software Engineer | Go, JavaScript, SQL**
 
-May 2023 - Dec 2023  Berlin, Berlin, Germany&#x20;
+May 2023 - Dec 2023 Berlin, Berlin, Germany
 
 ***
 
@@ -26,4 +26,3 @@ May 2023 - Dec 2023  Berlin, Berlin, Germany&#x20;
 
 * Performed end-to-end integration revamp of order PDF, enhancing UI communication effectiveness by 80%
 * Utilized Go, HTML, CSS, and PDF Monkey for PDF processing improvements
-

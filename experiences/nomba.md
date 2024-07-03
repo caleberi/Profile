@@ -40,6 +40,3 @@ Mar 2022 - Sep 2022
 * Engaged in codebase maintenance across Java, JavaScript, and Python
 * Implemented data storage solutions for vendor services using JavaScript
 * Fixed and maintained codebase in Python, JavaScript, and Java
-
-
-

@@ -2,13 +2,13 @@
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="75"><figcaption><p><strong>Cudium</strong> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="75"><figcaption><p><strong>Cudium</strong></p></figcaption></figure>
 
 </div>
 
-### **Backend Engineer | Node.js, Sails.js, JavaScript**   &#x20;
+### **Backend Engineer | Node.js, Sails.js, JavaScript**
 
-Sep 2022 - Present · 1 yr 11 mos  Ife, Osun State, Nigeria ·                                          &#x20;
+Sep 2022 - Present · 1 yr 11 mos Ife, Osun State, Nigeria ·
 
 ***
 

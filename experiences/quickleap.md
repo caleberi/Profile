@@ -27,4 +27,3 @@ Quick Leap Aug 2022 - Aug 2023
 **Payment Integration:**
 
 * Integrated third-party payment service to facilitate the purchase of farm produce from the platform
-

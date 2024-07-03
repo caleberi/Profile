@@ -8,7 +8,7 @@
 
 ### **Software Engineer | Back-End Application Development, API Integration, Data Analysis**
 
-Sep 2019 - Apr 2020&#x20;
+Sep 2019 - Apr 2020
 
 **Backend Development & System Migration:**
 
@@ -20,7 +20,7 @@ Sep 2019 - Apr 2020&#x20;
 
 **Data Management & Analysis:**
 
-* Enhanced data analysis and database generation by reducing bugs by 20%&#x20;
+* Enhanced data analysis and database generation by reducing bugs by 20%
 
 **Financial Services & Customer Engagement:**
 
