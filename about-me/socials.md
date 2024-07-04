@@ -1,0 +1,5 @@
+# Socials
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>LINKEDIN</td><td></td><td><a href="../.gitbook/assets/317750_linkedin_icon.png">317750_linkedin_icon.png</a></td><td><a href="https://www.linkedin.com/in/adewole-caleb/">https://www.linkedin.com/in/adewole-caleb/</a></td></tr><tr><td></td><td>TWITTER</td><td></td><td><a href="../.gitbook/assets/317749_social media_tweet_twitter_social_icon.png">317749_social media_tweet_twitter_social_icon.png</a></td><td><a href="https://x.com/Soundboax">https://x.com/Soundboax</a></td></tr><tr><td></td><td>GITHUB</td><td></td><td><a href="../.gitbook/assets/317712_code repository_github_repository_resource_icon.png">317712_code repository_github_repository_resource_icon.png</a></td><td><a href="https://github.com/caleberi">https://github.com/caleberi</a></td></tr></tbody></table>

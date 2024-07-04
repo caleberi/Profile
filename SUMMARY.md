@@ -1,9 +1,15 @@
 # Table of contents
 
 * [About Me](README.md)
+  * [Socials](about-me/socials.md)
 * [Experiences](experiences/README.md)
   * [Terragon](experiences/terragon.md)
   * [Cudium](experiences/cudium.md)
   * [Quickleap](experiences/quickleap.md)
   * [AirGateway](experiences/airgateway.md)
   * [Nomba](experiences/nomba.md)
+* [Projects](projects/README.md)
+  * [Devon](projects/devon.md)
+  * [Employee Disbursment Application](projects/employee-disbursment-application.md)
+  * [Map Reduce RPC](projects/map-reduce-rpc.md)
+  * [Shortify](projects/shortify.md)
