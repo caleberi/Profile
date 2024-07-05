@@ -13,3 +13,4 @@
   * [Employee Disbursment Application](projects/employee-disbursment-application.md)
   * [Map Reduce RPC](projects/map-reduce-rpc.md)
   * [Shortify](projects/shortify.md)
+  * [GRPC Weather App](projects/grpc-weather-app.md)
