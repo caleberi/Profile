@@ -27,6 +27,10 @@
 * [https://caleberioluwa.hashnode.dev/they-said-i-dont-know-js-2](https://caleberioluwa.hashnode.dev/they-said-i-dont-know-js-2)
 * [https://caleberioluwa.hashnode.dev/they-said-i-dont-know-js-3](https://caleberioluwa.hashnode.dev/they-said-i-dont-know-js-3)
 * [https://caleberioluwa.hashnode.dev/they-said-i-dont-know-js-4](https://caleberioluwa.hashnode.dev/they-said-i-dont-know-js-4)
+* [https://caleberioluwa.hashnode.dev/how-to-implement-data-replication-and-versioning-in-golang](https://caleberioluwa.hashnode.dev/how-to-implement-data-replication-and-versioning-in-golang)
+* [https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-1](https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-1)
+* [https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-2](https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-2)
+* [https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-3](https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-3)
 {% endtab %}
 {% endtabs %}
 
