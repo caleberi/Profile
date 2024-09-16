@@ -31,6 +31,7 @@
 * [https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-1](https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-1)
 * [https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-2](https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-2)
 * [https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-3](https://caleberioluwa.hashnode.dev/building-a-custom-payroll-system-mongodb-go-and-yellowcard-api-series-part-3)
+* [https://caleberioluwa.hashnode.dev/exploring-zig-my-experience-and-insights](https://caleberioluwa.hashnode.dev/exploring-zig-my-experience-and-insights)
 {% endtab %}
 {% endtabs %}
 
