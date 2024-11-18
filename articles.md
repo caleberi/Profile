@@ -6,9 +6,9 @@
 {% tab title="Linkedin" %}
 * [https://www.linkedin.com/pulse/note-linkedins-kafka-caleb-adewole-4wt5f/?trackingId=YrFXjRN3SRuXOYeJVBMLZQ%3D%3D](https://www.linkedin.com/pulse/note-linkedins-kafka-caleb-adewole-4wt5f/?trackingId=YrFXjRN3SRuXOYeJVBMLZQ%3D%3D)
 * [https://www.linkedin.com/pulse/virtualising-memory-address-translation-caleb-adewole-f3p0f/?trackingId=YrFXjRN3SRuXOYeJVBMLZQ%3D%3D](https://www.linkedin.com/pulse/virtualising-memory-address-translation-caleb-adewole-f3p0f/?trackingId=YrFXjRN3SRuXOYeJVBMLZQ%3D%3D)
-* [https://www.linkedin.com/pulse/map-reduce-practical-approach-caleb-adewole-umljf/?trackingId=YrFXjRN3SRuXOYeJVBMLZQ%3D%3D](https://www.linkedin.com/pulse/map-reduce-practical-approach-caleb-adewole-umljf/?trackingId=YrFXjRN3SRuXOYeJVBMLZQ%3D%3D)
-
-
+* [https://www.linkedin.com/pulse/map-reduce-practical-approach-caleb-adewole-umljf/?trackingId=YrFXjRN3SRuXOYeJVBMLZQ%3D%3D](https://www.linkedin.com/pulse/map-reduce-practical-approach-caleb-adewole-umljf/?trackingId=YrFXjRN3SRuXOYeJVBMLZQ%3D%3D)\
+  \
+  [https://www.linkedin.com/pulse/bitcask-paper-summary-caleb-adewole-fgyuf/?trackingId=2GMbh7dEQE62N01uFFKy0A%3D%3D](https://www.linkedin.com/pulse/bitcask-paper-summary-caleb-adewole-fgyuf/?trackingId=2GMbh7dEQE62N01uFFKy0A%3D%3D)
 {% endtab %}
 
 {% tab title="Hashnode" %}
@@ -34,6 +34,8 @@
 * [https://caleberioluwa.hashnode.dev/exploring-zig-my-experience-and-insights](https://caleberioluwa.hashnode.dev/exploring-zig-my-experience-and-insights)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
